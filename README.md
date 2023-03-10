@@ -4,7 +4,7 @@
 #### Author: Oscar Dominguez
 
 ## Business problem:
-Here is where you state the business problem you were trying to solve
+Does Outlet size and item visibility affect sales
 
 ## Data
 Data can include source and high-level description (e.g. # obs)
@@ -12,7 +12,8 @@ Data can include source and high-level description (e.g. # obs)
 ## Results
 
 
-<img width="498" alt="Screenshot 2023-03-10 at 2 37 22 AM" src="https://user-images.githubusercontent.com/123289046/224266027-8c1cff2e-84bb-485e-af5c-a58c5d8725f6.png">
+<img width="525" alt="Screenshot 2023-03-10 at 2 38 04 AM" src="https://user-images.githubusercontent.com/123289046/224266212-f0032f52-2385-41fa-ba7e-5d999afd345d.png">
+
 ## Model
 Describe your final model
 
