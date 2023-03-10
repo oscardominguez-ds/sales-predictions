@@ -10,9 +10,9 @@ Here is where you state the business problem you were trying to solve
 Data can include source and high-level description (e.g. # obs)
 
 ## Results
-<img width="498" alt="Screenshot 2023-03-10 at 2 21 14 AM" src="https://user-images.githubusercontent.com/123289046/224265545-1bb08ff3-4189-46b5-b973-f7d5f834ef46.png">
 
 
+<img width="498" alt="Screenshot 2023-03-10 at 2 37 22 AM" src="https://user-images.githubusercontent.com/123289046/224266027-8c1cff2e-84bb-485e-af5c-a58c5d8725f6.png">
 ## Model
 Describe your final model
 
