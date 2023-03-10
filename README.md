@@ -1,20 +1,27 @@
-# food-sales-predictions
-Oscar Dominguez
-
-# Title that recommends an action
+# Predicting store sales 
 ## Subtitle describing the analysis
 
-# Author:
+#### Author: Oscar Dominguez
 
-Business problem:
+## Business problem:
 Here is where you state the business problem you were trying to solve
 
-Data:
+## Data
 Data can include source and high-level description (e.g. # obs)
 
+## Results
+![caption](link to image / GIF)
 
-To finalize this project, complete a README in your GitHub repository including:
-An overview of the project
-2 relevant insights from the data (supported with reporting quality visualizations)
-Summary of the model and its evaluation metrics
-Final recommendations 
+## Model
+Describe your final model
+
+Report the most important metrics
+
+Refer to the metrics to describe how well the model would solve the business problem
+
+## Recommendations:
+
+## Limitations & Next Steps
+
+## For further information 
+For any additional questions, please contact email odominguez0805@gmail.com
