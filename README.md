@@ -10,7 +10,8 @@ Here is where you state the business problem you were trying to solve
 Data can include source and high-level description (e.g. # obs)
 
 ## Results
-![caption](link to image / GIF)
+<img width="498" alt="Screenshot 2023-03-10 at 2 21 14 AM" src="https://user-images.githubusercontent.com/123289046/224265545-1bb08ff3-4189-46b5-b973-f7d5f834ef46.png">
+
 
 ## Model
 Describe your final model
