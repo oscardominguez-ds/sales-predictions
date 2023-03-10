@@ -1,6 +1,20 @@
 # food-sales-predictions
 Oscar Dominguez
-<h2> Loading Data </h2>
-<h2> Data Cleaning </h2>
-<h2> Exploratory Visuals </h2>
-<h2> Explanatory Visuals </h2>
+
+# Title that recommends an action
+## Subtitle describing the analysis
+
+# Author:
+
+Business problem:
+Here is where you state the business problem you were trying to solve
+
+Data:
+Data can include source and high-level description (e.g. # obs)
+
+
+To finalize this project, complete a README in your GitHub repository including:
+An overview of the project
+2 relevant insights from the data (supported with reporting quality visualizations)
+Summary of the model and its evaluation metrics
+Final recommendations 
