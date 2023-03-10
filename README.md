@@ -7,10 +7,13 @@
 Does Outlet size and item visibility affect sales
 
 ## Data
-Data can include source and high-level description (e.g. # obs)
+Source - Sales Predictions from Kagle
+
+## To prepare this data, the data was cleaned, and the following processes were performed.
 
 ## Results
 
+<img width="498" alt="redo" src="https://user-images.githubusercontent.com/123289046/224269143-439c30c3-83b6-42a9-bcac-5a5cd150e997.png">
 
 <img width="525" alt="Screenshot 2023-03-10 at 2 38 04 AM" src="https://user-images.githubusercontent.com/123289046/224266212-f0032f52-2385-41fa-ba7e-5d999afd345d.png">
 
