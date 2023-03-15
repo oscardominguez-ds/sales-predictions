@@ -25,8 +25,10 @@ Report the most important metrics
 Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
+I recommend the Linear regression model. The errors or the difference from the true median price vs predicted is smaller than the Decision Tree model.
 
 ## Limitations & Next Steps
+The graphs show that the smaller stores had more visibility for their products but the medium and larger outlet stores still generate mores sales.
 
 ## For further information 
 For any additional questions, please contact email odominguez0805@gmail.com
